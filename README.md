@@ -39,7 +39,7 @@
 
 To run the tool with the GUI, use:
 ```bash
-python differ_gui.py --dir1 path/to/dir1 --dir2 path/to/dir2 --extensions py,txt
+python differ_gui.py
 ```
 
 ### CLI Mode
