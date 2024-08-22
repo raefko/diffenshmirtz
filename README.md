@@ -1,7 +1,8 @@
 # Diffenshmirtz
 
-<img src="logo.webp" alt="image" width="50%" height="auto" style="display: block; margin: 0 auto">
-
+<p align="center">
+<img src="logo.webp" alt="image" width="50%" height="auto">
+</p>
 
 **Diffenshmirtz** is a versatile tool for comparing files across two directories. It offers both a graphical user interface (GUI) and a command-line interface (CLI) to suit different needs. With Diffenshmirtz, you can easily identify unique files in each directory, compare file differences, and view these differences in a user-friendly format.
 
